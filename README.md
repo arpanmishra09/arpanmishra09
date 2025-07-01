@@ -10,8 +10,8 @@ I’m a **data scientist** passionate about leveraging **Machine Learning, NLP, 
 ## 🛠️ **Key Skills**  
 
 ```yaml
-🔹 Technical Skills: Python, R, SQL  
-🔹 Tools: Power BI, Tableau, Flask, Power Automate, Alteryx ,Airflow
+🔹 Coding Languages: Python, R, SQL  
+🔹 Tools: Power BI, Tableau, Flask, Microsoft Power Applications, Alteryx, Stramlit
 🔹 Specializations: Machine Learning, Deep Learning, NLP, Computer Vision  
 🔹 Other Expertise: API Integration, A/B Testing ,Automation
 ```  
