@@ -36,6 +36,6 @@ I’m a **data scientist** passionate about leveraging **Machine Learning, NLP, 
 
 ## 🖥️ **Explore My GitHub**  
 
-- 🎯 Check out repositories showcasing **data science**, **machine learning**, and **dashboarding** projects.  
+- 🎯 Check out repositories showcasing **Data science**, **Machine Learning**, and **Deep Learning** projects.  
 - ✨ Collaborate with me on innovative projects to solve real-world challenges!  
 
